@@ -1,0 +1,20 @@
+.blog{
+    border: 2px solid red;
+    box-shadow: 10px  10px 30px;
+    margin: 30px;
+   
+}
+.second{
+    /* display: none; */
+    visibility: hidden;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.inline{
+    border: 3px solid palevioletred;
+    /* display: block; */
+    height: 40px;
+    display: inline-block;
+    margin: 30px;
+}
